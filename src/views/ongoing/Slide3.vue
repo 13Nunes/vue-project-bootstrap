@@ -9,7 +9,7 @@
         e uma biblioteca de ícones do Material Design. Customize conforma achar necessário.
       </p><br>
 
-      <a href="javascript:void(0)" id="start-jorney" target="_blank">Ir para o repositório</a>
+      <a href="https://github.com/13Nunes/vue-project-bootstrap" id="start-jorney" target="_blank">Ir para o repositório</a>
     </div>
     <div class="navigation animated zoomIn">
       <a href="javascript:void(0)" @click="goToRoute('/')">&#9679;</a>
