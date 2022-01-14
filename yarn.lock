@@ -2712,7 +2712,7 @@ debug@2.6.9, debug@^2.2.0, debug@^2.3.3:
   dependencies:
     ms "2.0.0"
 
-debug@^3.0.0, debug@^3.1.0, debug@^3.1.1, debug@^3.2.5:
+debug@^3.1.0, debug@^3.1.1, debug@^3.2.5:
   version "3.2.6"
   resolved "https://registry.yarnpkg.com/debug/-/debug-3.2.6.tgz#e83d17de16d8a7efb7717edbe5fb10135eee629b"
   integrity sha512-mel+jf7nrtEl5Pn1Qx46zARXKDpBbvzezse7p7LqINmdoIk8PYP5SySaxEmYv6TZ0JyEKA1hsCId6DIhgITtWQ==
@@ -3763,11 +3763,9 @@ flush-write-stream@^1.0.0:
     readable-stream "^2.3.6"
 
 follow-redirects@^1.0.0:
-  version "1.11.0"
-  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.11.0.tgz#afa14f08ba12a52963140fe43212658897bc0ecb"
-  integrity sha512-KZm0V+ll8PfBrKwMzdo5D13b1bur9Iq9Zd/RMmAoQQcl2PxxFml8cxXPaaPYVbV0RjNjq1CU7zIzAOqtUPudmA==
-  dependencies:
-    debug "^3.0.0"
+  version "1.14.7"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.7.tgz#2004c02eb9436eee9a21446a6477debf17e81685"
+  integrity sha512-+hbxoLbFMbRKDwohX8GkTataGqO6Jb7jGwpAlwgy2bIz25XtRm7KEzJM76R1WiNT5SwZkX4Y75SwBolkpmE7iQ==
 
 for-in@^1.0.2:
   version "1.0.2"
@@ -7940,11 +7938,6 @@ svgo@^1.0.0:
     unquote "~1.1.1"
     util.promisify "~1.0.0"
 
-sweetalert2@9.x:
-  version "9.13.1"
-  resolved "https://registry.yarnpkg.com/sweetalert2/-/sweetalert2-9.13.1.tgz#debe573ab1a1d66308c76ded86ec364b9521119e"
-  integrity sha512-yyhf9f3FIYNpOLVCbGOdFr13KuXqKWOiHvoFBio7mMtZxTpOsa3XRdVDd0EYCoI+MDuUyYh6TeeG345j8zxT/Q==
-
 table@4.0.2:
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/table/-/table-4.0.2.tgz#a33447375391e766ad34d3486e6e2aedc84d2e36"
@@ -8475,13 +8468,6 @@ vue-style-loader@^4.1.0:
   dependencies:
     hash-sum "^1.0.2"
     loader-utils "^1.0.2"
-
-vue-sweetalert2@^3.0.5:
-  version "3.0.5"
-  resolved "https://registry.yarnpkg.com/vue-sweetalert2/-/vue-sweetalert2-3.0.5.tgz#379c8c78a7c297d2d0e4c546d55713f7e52a0802"
-  integrity sha512-X1Jj7bNC7uTDXeHjOnW/PAMn96yiFzF740R5kW++xDaYYymXReo/zi1F7iqVyfZccsZMb4Y+5u3DFBlPNSuRIg==
-  dependencies:
-    sweetalert2 "9.x"
 
 vue-template-compiler@^2.6.10:
   version "2.6.11"
