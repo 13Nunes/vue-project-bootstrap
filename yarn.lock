@@ -2732,9 +2732,9 @@ decamelize@^1.1.2, decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-equal@^1.0.1:
   version "1.1.1"
@@ -7940,11 +7940,6 @@ svgo@^1.0.0:
     unquote "~1.1.1"
     util.promisify "~1.0.0"
 
-sweetalert2@9.x:
-  version "9.13.1"
-  resolved "https://registry.yarnpkg.com/sweetalert2/-/sweetalert2-9.13.1.tgz#debe573ab1a1d66308c76ded86ec364b9521119e"
-  integrity sha512-yyhf9f3FIYNpOLVCbGOdFr13KuXqKWOiHvoFBio7mMtZxTpOsa3XRdVDd0EYCoI+MDuUyYh6TeeG345j8zxT/Q==
-
 table@4.0.2:
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/table/-/table-4.0.2.tgz#a33447375391e766ad34d3486e6e2aedc84d2e36"
@@ -8475,13 +8470,6 @@ vue-style-loader@^4.1.0:
   dependencies:
     hash-sum "^1.0.2"
     loader-utils "^1.0.2"
-
-vue-sweetalert2@^3.0.5:
-  version "3.0.5"
-  resolved "https://registry.yarnpkg.com/vue-sweetalert2/-/vue-sweetalert2-3.0.5.tgz#379c8c78a7c297d2d0e4c546d55713f7e52a0802"
-  integrity sha512-X1Jj7bNC7uTDXeHjOnW/PAMn96yiFzF740R5kW++xDaYYymXReo/zi1F7iqVyfZccsZMb4Y+5u3DFBlPNSuRIg==
-  dependencies:
-    sweetalert2 "9.x"
 
 vue-template-compiler@^2.6.10:
   version "2.6.11"
